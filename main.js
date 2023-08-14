@@ -4,3 +4,5 @@ function GetDate() {
 
     element.textContent = element.innerHTML + epochDate;
 }
+
+GetDate();
